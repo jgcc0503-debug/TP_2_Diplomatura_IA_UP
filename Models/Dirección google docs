@@ -1,0 +1,10 @@
+Los modelos entrenados en total son 7
+-Adaboost
+-Gradient boost
+-XGboost
+-KNN
+-Randomforest
+-Stacking (Gradient boost, XGboost, randomforest)
+
+Los ultimos dos se encuentran en el siguiente drive, no se lograron subir al repositorio debido a su peso:
+https://drive.google.com/drive/folders/1PoQbTzIz3aEsqIrkhS-U2WW2xoIA15iU?usp=sharing
