@@ -18,6 +18,6 @@ Para asegurar la calidad y reproducibilidad del modelo, se siguió el siguiente 
    - Se evaluó el desempeño del modelo segmentando la muestra por **género**, garantizando que la capacidad predictiva sea consistente para hombres y mujeres y descartando sesgos demográficos.
 
 ## 📊 Resultados Alcanzados
-Métrica principal: F1-Score (Test) de 0.6922 (Modelo: XGBoost).
-Estabilidad (Brecha de Generalización): 0.0196, lo que demuestra una alta capacidad del modelo para generalizar ante datos no vistos.
-Capacidad de discriminación: El modelo muestra un rendimiento sólido y consistente, superando a arquitecturas más complejas (como el Stacking), lo cual confirma que la arquitectura seleccionada es la más eficiente para la estructura tabular del dataset.
+-**Métrica principal:** F1-Score (Test) de 0.6922 (Modelo: XGBoost).
+-**Estabilidad (Brecha de Generalización):** 0.0196, lo que demuestra una alta capacidad del modelo para generalizar ante datos no vistos.
+-**Capacidad de discriminación:** El modelo muestra un rendimiento sólido y consistente, superando a arquitecturas más complejas (como el Stacking), lo cual confirma que la arquitectura seleccionada es la más eficiente para la estructura tabular del dataset.
